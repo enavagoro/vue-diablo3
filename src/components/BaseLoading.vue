@@ -32,7 +32,7 @@ export default {
           'info',
           'light',
           'dark'
-        ].indexOf(value) !== -1
+        ].includes(value)
       }
     },
     type: {
