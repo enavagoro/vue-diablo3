@@ -1,6 +1,6 @@
 <template>
-  <div class="hello">
-    <b-button>Just a Button!</b-button>
+  <div class="home">
+    <h1>Home Page</h1>
   </div>
 </template>
 
