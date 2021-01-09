@@ -10,16 +10,6 @@
   </div>
 </template>
 
-<style lang="stylus">
-#app
-  padding 60px 0
-  font-family 'Avenir', Helvetica, Arial, sans-serif
-  -webkit-font-smoothing antialiased
-  -moz-osx-font-smoothing grayscale
-  color #ffffff
-  background-color #15202b
-</style>
-
 <script>
 import { mapState } from 'vuex'
 
@@ -42,3 +32,13 @@ export default {
   }
 }
 </script>
+
+<style lang="stylus">
+#app
+  padding 60px 0
+  font-family 'Avenir', Helvetica, Arial, sans-serif
+  -webkit-font-smoothing antialiased
+  -moz-osx-font-smoothing grayscale
+  color #ffffff
+  background-color #15202b
+</style>
